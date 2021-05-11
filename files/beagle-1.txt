@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 ... we both edit at the same time
+=======
+but what if...
+>>>>>>> db33a32db1cd1b50d96f6bbba5209a6b10090acb
